@@ -17,8 +17,8 @@ La principal intención de implementar este proyecto es brindar un fácil acceso
 a los artistas y personas en general para que puedan contactar a los artistas
 por medio de la aplicación y organizar más facilmente eventos culturales.
 En concreto se pretende llevar un óptimo control en el registro de artistas y en
-la coordinación de eventos, hacer reservaciones de los espacios municipales dispo-
-nibles para eventos, entre otros.
+la coordinación de eventos, hacer reservaciones de los espacios municipales
+disponibles para eventos, entre otros.
 
 La ventaja de tener un sistema como este será reflejada en una mayor cantidad de
 eventos de cultura en Quetzaltenando y la región al tener una forma fácil y muy
@@ -40,23 +40,23 @@ Misión del proyecto
 -------------------
 
 Proporcionar una plataforma de fácil acceso al público y artistas con el fin de
-fortalecer la cultura de Quetzaltenango, administrando de forma eficiente y segura
-la información, que al mismo tiempo será relevante y confiable.
+obtener y administrar la información de forma eficiente y segura, la cual al mismo
+tiempo debe ser relevante y confiable para que le permita al cliente tomar las decisiones
+más favorables para la institución.
 
 
 Objetivos del proyecto
 ----------------------
 
-  - En cuanto a la cantidad de eventos de cultura en la cabecera municipal,
-    incrementarla en un 15% anual, por los proximos 3 años.
+  - Facilitar la creación de un nuevo evento desplegando información de instalaciones
+    y artistas disponibles, horarios, entre otros.
 
-  - En cuanto al numero de artistas asociados con la casa de la cultura,
-    incrementarlos en un 20% anual, por los proximos 4 años.
+  - Que casa de la cultura pueda llevar un control óptimo de las actividades culturales
+    y de los artistas, presentándole los medios necesarios para obtener y consultar
+    la informción de la forma más ordenada.
 
-  - En cuanto a la cantidad de usuarios particulares, alcanzar al menos
-    1500 por cada año.
+  - Reducir considerablemente los tiempos para reservar instalaciones para eventos,
+    mostrándole el listado de instalaciónes y horarios de disponibilidad de éstas.
 
-  - En cuanto al tiempo de registro de un artista o de un usuario particular,
-    que sea menor o igual a un minuto.
-
-  - En cuanto al tiempo de gestión de un evento, que no exceda de 2 días.
+  - Brindar la capacidad de conocer la opinión de todos los usuarios y el grado de aceptación
+    con respecto a las actividades por medio del registro de usuarios.

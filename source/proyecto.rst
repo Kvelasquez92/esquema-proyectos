@@ -6,8 +6,8 @@ Descripción General
 
 El proyecto consiste en implementar una aplicación web que sea accedida desde
 cualquier parte del mundo, la cual deberá contar con un directorio de artistas
-clasificados por categoría, según el tipo de arte que practiquen. Deberá permi-
-tir a los usuarios visitantes poder registrarse, por medio de Facebook o por
+clasificados por categoría, según el tipo de arte que practiquen. Deberá permitir
+a los usuarios visitantes poder registrarse, por medio de Facebook o por
 e-mail en su defecto para tener una mayor interacción en la aplicación, como
 calificar eventos y dejar reseñas, seguir artistas y/o eventos, suscribirse
 para recibir información de los temas de su interés, etc.
@@ -18,10 +18,10 @@ Se debe poder agregar notas educativas, referente a cualquier tipo cultura.
 
 Del lado de la casa de la cultura, la aplicación debe permitir calendarizar nuevos
 eventos y asignar a estos cualquiera de los artistas que esté disponible, al igual
-que la reservación de alguna instalación propia que este disponible o una instala-
-ción externa, con la opción de incluir la ubicación en formato de mapa. También,
-deben poder consultar información estadística sobre la cantidad de eventos en un
-lapso, usuarios y artistas registrados, categorías preferidas, entre otras.
+que la reservación de alguna instalación propia que este disponible o una instalación
+externa, con la opción de incluir la ubicación en formato de mapa. También, deben
+poder consultar información estadística sobre la cantidad de eventos en un lapso,
+usuarios y artistas registrados, categorías preferidas, entre otras.
 
 
 Modulos
@@ -59,3 +59,11 @@ estadísticos de los demás módulos, fechas, cantidades, categorías, etc. Se e
 de consultar en la base de datos los datos correspondientes a los demás módulos y
 luego pasarle los filtros adecuados para presentar la información estadística relevante
 a los usuarios de casa de la cultura.
+
+Para obtener mayor detalle sobre el funcionamiento de cada módulo y quienes interactuarán
+con ellos dirijase a la sección:
+
+.. toctree::
+   :maxdepth: 2
+
+   disenio
