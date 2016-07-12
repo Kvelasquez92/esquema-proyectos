@@ -70,8 +70,11 @@ Recolección:
 Este módulo, como su nombre lo indica, será el encargado de la recolección de datos
 estadísticos de los demás módulos, fechas, cantidades, categorías, visitas, lugares, entre otros.
 Se encargará de consultar datos correspondientes a los demás módulos y luego pasarle
-los filtros adecuados para presentar la información estadística relevante a los usuarios
-de casa de la cultura.
+los filtros adecuados para presentar la información estadística relevante. Estadísticas como,
+la valoración de los eventos, la cantidad de eventos en un lapso, cantidad de eventos en un lapso
+por tipo de arte (para que sepan qué arte es preferida por las personas), el número de veces que los
+artistas fueron contactados, cantida de visitas, entre otros. Esta módulo funcionará específicamente
+para los delegados para usar la aplicación en La Casa de la Cultura.
 
 Control:
 ^^^^^^^^

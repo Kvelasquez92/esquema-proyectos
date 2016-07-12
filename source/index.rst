@@ -15,11 +15,3 @@ Contenido:
    proyecto
    disenio
    tiempos
-
-
-Indices y tablas
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

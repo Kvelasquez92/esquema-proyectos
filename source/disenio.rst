@@ -39,7 +39,7 @@ Casos de uso módulo de Gestión:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: img\moduloGestion.png
-    :width: 75
+    :width: 75%
 
 En esté módulo se incluyen todas las tareas que están relacionadas con la creación y manejo de eventos,
 las cuales corresponden a La Casa de la cultura, que en este caso es el usuario Administrador.
@@ -67,6 +67,7 @@ principio que el diagrama de clases también necesitará una clase por cada tabl
 con entre clases serán también basicamente las mismas.
 
 .. figure:: img\diagramaClases.png
+    :width: 75%
 
 Diagrama de BD
 --------------
@@ -75,3 +76,4 @@ estos datos entre sí. Cada tabla representa una entidad y puede entenderse que 
 con los campos indicados ya que así esta definido su formato.
 
 .. figure:: img\modeloRelacional.png
+    :width: 75%

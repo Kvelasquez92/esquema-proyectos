@@ -61,14 +61,13 @@ con tres posibles escenarios:
 
 Misión del proyecto
 -------------------
-
-Proporcionar una plataforma de fácil acceso al público y artistas con el fin de
-obtener y administrar la información de La Casa de la Cultura en forma eficiente
-y segura, la cual al mismo tiempo debe ser relevante y confiable para que le permita
-a la dirección tomar las decisiones más convenientes en cuanto a qué metodologías
-mejorar o replantear en la gestión de eventos o contacto de artistas con el fin
-de que La Casa de la Cultura sea más productiva. Esto a partir de los datos entregados
-a la institución.
+Apoyar a la dirección de La Casa de la Cultura a tomar las decisiones más convenientes
+en cuanto a qué metodologías mejorar o replantear en la gestión de eventos, contacto de artistas,
+que tipos de eventos crear y que tipo de información postear sobre los eventos, con el fin
+de que sea más productiva. Esto por medio de una plataforma de fácil acceso al público y artistas
+para poder obtener y administrar la información de la institución en forma eficiente y segura,
+la cual al mismo tiempo debe ser relevante y confiable y así garantizar buenos resultados en las
+decisiones que puedan tomar a partir de la información entregada.
 
 
 Objetivos del proyecto
@@ -79,11 +78,18 @@ Objetivos del proyecto
     tome menos tiempo hacerla.
 
   - Presentar menús y opciones que permitan consultar información de la programación
-    de eventos de forma ordenada para que todos los eventos estén bien distribuidos en
-    el tiempo.
+    de eventos de forma ordenada de tal manera que al crear eventos todos estén bien
+    distribuidos en el tiempo.
 
-  - Proporcionar distintas opciones de que tipo de estadísticas se desea consultar, para que de esta
-    forma se puedan enfocar en el análisis de datos más específicos y puntuales.
+  - Que se tenga un mapa incrustado en la vista de cada evento, por medio de la aplicacion de
+    Google Maps, de tal forma que todas las personas interesadas puedan ubicar fácilmente el
+    lugar del evento.
 
-  - Implementar un espacio en cada evento para aceptar comentarios de usuarios registrados y así
+  - Ofrecer en cada evento un botón con la opción de sincronizar el evento con el calendario de
+    Google, esto para que los usuarios no registrados tengan presente los eventos de su interés.
+
+  - Proporcionar distintas opciones de que tipo de estadísticas se desea consultar, para que
+    de esta forma se puedan enfocar en el análisis de datos más específicos y puntuales.
+
+  - En cada evento implementar un área para aceptar comentarios de usuarios registrados y así
     conocer multiples opiniones en cuanto al grado de aceptación de los eventos realizados.
