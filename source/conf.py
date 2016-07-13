@@ -199,7 +199,7 @@ latex_elements = {
 'babel': '\\usepackage[spanish]{babel}',
 
 # fancy style
-#'fncychap': '\usepackage{../../source/latex/fncychap}',
+#'fncychap': '\\usepackage[Glenn]{fncychap}',
 }
 
 # Grouping the document tree into LaTeX files. List of tuples

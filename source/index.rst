@@ -6,8 +6,6 @@
 Bienvenido a la documentación de Aplicación Web para Casa de la Cultura Quetzaltenango
 ======================================================================================
 
-Contenido:
-
 .. toctree::
    :maxdepth: 2
 
