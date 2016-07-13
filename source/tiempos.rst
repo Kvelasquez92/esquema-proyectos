@@ -77,9 +77,9 @@ A continuación se mencionarán los productos y subproductos (no servicios) que 
 La aplicación web:
 ^^^^^^^^^^^^^^^^^^
 Es el paquete con todos los archivos necesarios para el funcionamiento de la página web, en donde se incluiría
-el código fuente en forma de un archivo html junto con todos los recursos que éste necesite para desplegar la
-información de forma adecuada (por ejemplo imagenes, diseños con css, documentos de configuración, etc) o de
-configuración del sistema.
+el código fuente en forma de un archivo html, archivos de configuración del sistema junto con todos los recursos
+que éste necesite para desplegar la información de forma adecuada (por ejemplo imagenes, diseños con css,
+archivos de configuración, etc).
 
 Manual de usuario:
 ^^^^^^^^^^^^^^^^^^
@@ -133,7 +133,7 @@ Modos de pago:
 ^^^^^^^^^^^^^^
 El cliente debe hacer efectivo un pago por el 20% del total del costo del proyecto al momento de hacer el trato
 y aceptar el inicio del desarrollo, luego deberá hacer efectivo otro 30% del total al momento de la primera entrega
-del proyecto. Efectuando el otro 50% al hacer la entrega final del sistema.
+del proyecto. Efectuando el último pago por el otro 50% del total al hacer la entrega final del sistema.
 
 Contrato Legal:
 ^^^^^^^^^^^^^^^
